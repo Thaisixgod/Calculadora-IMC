@@ -92,6 +92,10 @@ height: 150px;
 border-radius: 5px;
 background-color:#1F2933;
 margin-bottom: 20PX;
-
+align-items: center;
+justify-content: center;
+color: #EEE;
+font: bold 1.0rem 'Press Start 2P';
+display: flex;
 }
 
